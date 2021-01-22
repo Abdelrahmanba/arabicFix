@@ -58,5 +58,5 @@ Which will be converted to :
 
 # How To Use
 The script automatically search for all *.srt files in the currnet directory and create new folder "Fixed" containng the fixed files with the original name
-(or simply use the compiled file and it will git the job done for you1)
+(or simply use the compiled file and it will get the job done for you!)
 
