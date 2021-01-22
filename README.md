@@ -7,8 +7,9 @@ Some subtitle files in arabic shows wierd characters on some media players / TVs
 this script will fix the problem py converting them to UTF-8 
 
 Problem Example :
-`
 
+
+```
 7
 00:00:40,381 --> 00:00:43,537
 ÇáÑÓÇÆá ÈÓÑÚÉ
@@ -27,10 +28,12 @@ Problem Example :
 00:00:46,557 --> 00:00:48,838
 áÇ ÌÏíÏ -
 áíÓ åÐÇ ãÇ ÞáÊ ãäÐ Þáíá -
-`
+```
+
 Which will be converted to :
 
-`
+```
+
 7
 00:00:40,381 --> 00:00:43,537
 الرسائل بسرعة
@@ -50,7 +53,8 @@ Which will be converted to :
 لا جديد -
 ليس هذا ما قلت منذ قليل -
 و دعم الموظفين، عائلتي
-`
+```
+
 
 # How To Use
 The script automatically search for all *.srt files in the currnet directory and create new folder "Fixed" containng the fixed files with the original name
