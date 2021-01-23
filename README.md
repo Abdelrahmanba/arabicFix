@@ -2,7 +2,7 @@
 fixes the common problem caused by character-set encoding incompatibility 
 
 # Description
-Some subtitle files in arabic show wierd characters on some media players / TVs that does'nt support Windows-1256 encoding
+Some subtitle files in arabic show wierd characters on some media players / TVs that doesn't support Windows-1256 encoding
 this script will fix the problem py converting them to UTF-8 
 
 Problem Example :
